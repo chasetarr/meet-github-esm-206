@@ -56,9 +56,10 @@ The organization of this document probably seems strange. That's because it's pa
 
 Here would be where we would put information on ring-tails # saving updates in the git tab by the environment
 
-![Ring-Tail Cat (courtesty of VA zoo)](img/ringtail_cat.jpg) - square brackets are caption for figure, parentheses are the image path
-
-
+![Ring-Tail Cat (courtesty of VA zoo)](img/ringtail_cat.jpg) - square brackets are caption for figure, parentheses are the image path - save and then knit to see new tab in document
+- we will also learn about `knittr::include_graphics()` in the future
+- staging files and then pressing committ - then push
+- pressing pull when collaborating to make sure your version is up to date
 
 ###
 
