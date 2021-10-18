@@ -61,6 +61,11 @@ Here would be where we would put information on ring-tails # saving updates in t
 - staging files and then pressing committ - then push
 - pressing pull when collaborating to make sure your version is up to date
 
+Adding a few fun facts:
+- Ring-Tail Cats can rotate hind legs 180 degrees (useful for climbing)
+- Are not an endangered species just very illusive
+- Closely related to Racoons
+
 ###
 
 ----------
